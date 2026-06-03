@@ -47,9 +47,5 @@ This repository contains my personal notes and materials covering fundamental to
 * **Google Colab:** For writing code and keeping interactive `.ipynb` notes.
 * **Custom Visuals:** Hand-drawn and generated diagrams for a better intuition of complex math concepts.
 
----
 
-*My foundation in Mathematics for AI is now rock solid. Ready to dive deep into core Machine Learning algorithms!*
-
----
 
